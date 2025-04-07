@@ -9,6 +9,7 @@ ubuntu:16.04
 openjdk:8-alpine
 nacos/nacos-server
 registry
+joxit/docker-registry-ui
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
