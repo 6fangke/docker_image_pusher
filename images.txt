@@ -12,6 +12,7 @@ registry
 joxit/docker-registry-ui:latest
 joxit/docker-registry-ui:static
 joxit/docker-registry-ui:main
+docker pull joxit/docker-registry-ui:2
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
