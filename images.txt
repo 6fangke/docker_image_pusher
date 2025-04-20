@@ -13,6 +13,7 @@ joxit/docker-registry-ui:static
 joxit/docker-registry-ui:2
 docker/compose:latest
 mysql:5.7.44
+silsuer/yapi
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
